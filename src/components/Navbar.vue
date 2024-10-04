@@ -1,5 +1,5 @@
 <script setup>
-import logo from '../assets/img/logo.png';
+import logo from '@/assets/logo.png';
 import { RouterLink, useRoute } from 'vue-router';
 
 const isActiveLink = (routePath) => {
