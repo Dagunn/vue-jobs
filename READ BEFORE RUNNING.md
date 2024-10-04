@@ -1,2 +1,2 @@
-перед запуском npm run dev нужно запустить локальный json сервер npm run json, чтобы отображались карточки.
+перед запуском npm run dev нужно запустить локальный json сервер npm run json, чтобы отображались карточки. <br>
 Before running npm run dev, you need to run the local npm run json server to display the cards.
