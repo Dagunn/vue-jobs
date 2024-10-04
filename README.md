@@ -19,6 +19,7 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
+npm run json (for showing all cards)
 npm run dev
 ```
 
